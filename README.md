@@ -32,7 +32,7 @@ This game was developed as part of my AI-Driven Software Engineering Bootcamp, w
 
 <h2>🚀How to Run</h2>
 <ol>
-  <li>Clone the repository:
+  <li><b>Clone the repository:</b>
     <pre><code>git clone https://github.com/catia-barros/game.git 
   cd game</code></pre>
   </li>
